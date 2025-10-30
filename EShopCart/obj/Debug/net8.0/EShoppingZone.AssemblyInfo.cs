@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EShoppingZone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbaa3fc78220a671b810e184115eb57d50534708")]
 [assembly: System.Reflection.AssemblyProductAttribute("EShoppingZone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EShoppingZone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

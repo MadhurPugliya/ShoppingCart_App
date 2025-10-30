@@ -86,7 +86,7 @@ namespace EShopCart.Controllers
 
             return Ok(new { message = "User registered successfully. A confirmation email has been sent." });
         }
-
+     
         // Private method to send a registration email
         private async Task SendWelcomeEmail(string recipientEmail)
         {
