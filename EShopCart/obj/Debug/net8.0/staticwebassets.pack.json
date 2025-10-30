@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mriteshp\\OneDrive - Capgemini\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\images\\9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "PackagePath": "staticwebassets\\images\\9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mriteshp\\OneDrive - Capgemini\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mriteshp\\OneDrive - Capgemini\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mriteshp\\OneDrive - Capgemini\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EShoppingZone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EShoppingZone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EShoppingZone.props",
+      "PackagePath": "build\\EShoppingZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EShoppingZone.props",
+      "PackagePath": "buildMultiTargeting\\EShoppingZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EShoppingZone.props",
+      "PackagePath": "buildTransitive\\EShoppingZone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

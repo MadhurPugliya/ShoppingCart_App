@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "kFExKktIjPVajT0fWOJiwWxefZB1ipItHsV2HY57LMY=",
+  "Source": "EShoppingZone",
+  "BasePath": "_content/EShoppingZone",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EShoppingZone\\wwwroot",
+      "Source": "EShoppingZone",
+      "ContentRoot": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\",
+      "BasePath": "_content/EShoppingZone",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\images\\9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "SourceId": "EShoppingZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\",
+      "BasePath": "_content/EShoppingZone",
+      "RelativePath": "images/9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4sm2yciu89",
+      "Integrity": "LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg",
+      "SourceId": "EShoppingZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\",
+      "BasePath": "_content/EShoppingZone",
+      "RelativePath": "uploads/8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "77b26dg7a2",
+      "Integrity": "zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "SourceId": "EShoppingZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\",
+      "BasePath": "_content/EShoppingZone",
+      "RelativePath": "uploads/bd9db87e-e404-4380-b838-0afd953ee288_Football#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4sm2yciu89",
+      "Integrity": "LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg",
+      "SourceId": "EShoppingZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\",
+      "BasePath": "_content/EShoppingZone",
+      "RelativePath": "uploads/d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "77b26dg7a2",
+      "Integrity": "zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.4sm2yciu89.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\images\\9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 18:00:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4sm2yciu89"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw="
+        }
+      ]
+    },
+    {
+      "Route": "images/9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\images\\9596f317-9d8e-4dcb-ac1b-f2ec195668ac_bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 18:00:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.77b26dg7a2.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "77b26dg7a2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\8866e773-5030-41c9-85eb-ff6c8d2d187a_FootBall.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bd9db87e-e404-4380-b838-0afd953ee288_Football.4sm2yciu89.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 19:52:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4sm2yciu89"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\bd9db87e-e404-4380-b838-0afd953ee288_Football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 19:52:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LG6gL1NB9avjK8v3zuHGp4xZWV2usC3Qpr6jZ0VsJhw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.77b26dg7a2.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "77b26dg7a2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg",
+      "AssetFile": "C:\\Users\\mriteshp\\Desktop\\ShopCartBackend\\EShopCart\\wwwroot\\uploads\\d73aeb1c-a4eb-4a6b-b15f-0bf06fe2141b_Best Football.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYBTyU5Ecink9gMakfI5hBNtDqKF5acRXmbAsiXePQA="
+        }
+      ]
+    }
+  ]
+}
